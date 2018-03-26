@@ -1,2 +1,4 @@
 # linuxsvr
-installing and configuring various linux services
+Installing and configuring linux server applications.
+
+Please view project wiki to see detailed sub-projects.
